@@ -1,6 +1,9 @@
 h1{
     color: red;
 }
+/* Change h1 to red  */
+
+/* when completed is clicked allow it to be grey out and slash through */
 .completed{
     color: gray;
     text-decoration: line-through;
